@@ -79,6 +79,7 @@ Collect optimizer related papers, data, repositories
 |CADA: Communication-Adaptive Distributed Adam|2020|CADA|[arxiv](https://arxiv.org/abs/2012.15469)|[code](https://github.com/ChrisYZZ/CADA-master)|gradient descent|
 |CoolMomentum: A Method for Stochastic Optimization by Langevin Dynamics with Simulated Annealing|2020|CoolMomentum|[arxiv](https://arxiv.org/abs/2005.14605)|[code](https://github.com/borbysh/coolmomentum)|gradient descent|
 |EAdam Optimizer: How ε Impact Adam|2020|EAdam|[arxiv](https://arxiv.org/abs/2011.02150)|[code](https://github.com/yuanwei2019/EAdam-optimizer)|gradient descent|
+|Expectigrad: Fast Stochastic Optimization with Robust Convergence Properties|2020|Expectigrad|[arxiv](https://arxiv.org/abs/2010.01356)|[code](https://github.com/brett-daley/expectigrad)|gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
 |Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
