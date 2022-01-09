@@ -58,6 +58,7 @@ Collect optimizer related papers, data, repositories
 |BGADAM: Boosting based Genetic-Evolutionary ADAM for Neural Network Optimization|2019|BGADAM|[arxiv](https://arxiv.org/abs/1908.08015)||gradient descent|
 |CProp: Adaptive Learning Rate Scaling from Past Gradient Conformity|2019|CProp|[arxiv](https://arxiv.org/abs/1912.11493)|[code](https://github.com/phizaz/cprop)|gradient descent|
 |DADAM: A Consensus-based Distributed Adaptive Gradient Method for Online Optimization|2019|DADAM|[arxiv](https://arxiv.org/abs/1901.09109)|[code](https://github.com/Tarzanagh/DADAM)|gradient descent|
+|diffGrad: An Optimization Method for Convolutional Neural Networks|2019|diffGrad|[arxiv](https://arxiv.org/abs/1909.11015)|[code](https://github.com/shivram1987/diffGrad)|gradient descent|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
