@@ -37,6 +37,7 @@ Collect optimizer related papers, data, repositories
 |Fast Approximate Natural Gradient Descent in a Kronecker-factored Eigenbasis|2018|EKFAC|[arxiv](https://arxiv.org/abs/1806.03884)|[code](https://github.com/Thrandis/EKFAC-pytorch)|gradient descent|
 |AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods|2018|AdaShift|[arxiv](https://arxiv.org/abs/1810.00143)|[code](https://github.com/MichaelKonobeev/adashift)|gradient descent|
 |Practical Bayesian Learning of Neural Networks via Adaptive Optimisation Methods|2018|BADAM|[arxiv](https://arxiv.org/abs/1811.03679)|[code](https://github.com/skezle/BADAM)|gradient descent|
+|Small steps and giant leaps: Minimal Newton solvers for Deep Learning|2018|Curveball|[arxiv](https://arxiv.org/abs/1805.08095)|[code](https://github.com/jotaf98/curveball)|gradient descent|
 |On the Convergence of Adam and Beyond|2019|AMSGrad|[arxiv](https://arxiv.org/abs/1904.09237)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adam.py#L6)|gradient descent|
 |Local AdaAlter: Communication-Efficient Stochastic Gradient Descent with Adaptive Learning Rates|2019|AdaAlter|[arxiv](https://arxiv.org/abs/1911.09030)|[code](https://github.com/xcgoner/AISTATS2020-AdaAlter-GluonNLP)|gradient descent|
 |Adaptive Gradient Methods with Dynamic Bound of Learning Rate|2019|AdaBound|[arxiv](https://arxiv.org/abs/1902.09843)|[code](https://github.com/Luolc/AdaBound)|gradient descent|
