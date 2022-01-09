@@ -49,6 +49,7 @@ Collect optimizer related papers, data, repositories
 |Adathm: Adaptive Gradient Method Based on Estimates of Third-Order Moments|2019|Adathm|[ieee](https://ieeexplore.ieee.org/document/8923615)||gradient descent|
 |Domain-independent Dominance of Adaptive Methods|2019|Delayed Adam|[arxiv](https://arxiv.org/abs/1912.01823)|[code](https://github.com/lolemacs/avagrad)|gradient descent|
 |Domain-independent Dominance of Adaptive Methods|2019|AvaGrad|[arxiv](https://arxiv.org/abs/1912.01823)|[code](https://github.com/lolemacs/avagrad)|gradient descent|
+|Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates|2019|ArmijoLS|[arxiv](https://arxiv.org/abs/1905.09997)|[code](https://github.com/IssamLaradji/sls)|gradient descent|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
