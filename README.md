@@ -71,4 +71,5 @@ Collect optimizer related papers, data, repositories
 |SUPER-ADAM: Faster and Universal Framework of Adaptive Gradients|2021|SUPER-ADAM|[arxiv](https://arxiv.org/abs/2106.08208)|[code](https://github.com/lijunyi95/superadam)|gradient descent|
 |Faster Perturbed Stochastic Gradient Methods for Finding Local Minima|2021|Pullback|[arxiv](https://arxiv.org/abs/2110.13144)||perturbed gradient|
 |AngularGrad: A New Optimization Technique for Angular Convergence of Convolutional Neural Networks|2021|AngularGrad|[arxiv](https://arxiv.org/abs/2105.10190)|[code](https://github.com/mhaut/AngularGrad)|gradient descent|
+|ASAM: Adaptive Sharpness-Aware Minimization for Scale-Invariant Learning of Deep Neural Networks|2021|ASAM|[arxiv](https://arxiv.org/abs/2102.11600)|[code](https://github.com/SamsungLabs/ASAM)|gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
