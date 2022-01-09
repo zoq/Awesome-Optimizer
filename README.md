@@ -60,5 +60,6 @@ Collect optimizer related papers, data, repositories
 |AdaSGD: Bridging the gap between SGD and Adam|2020|AdaSGD|[arxiv](https://arxiv.org/abs/2006.16541)||gradient descent|
 |AdaX: Adaptive Gradient Descent with Exponential Long Term Memory|2020|AdaX|[arxiv](https://arxiv.org/abs/2004.09740)|[code](https://github.com/switchablenorms/AdaX)|gradient descent|
 |AdaX: Adaptive Gradient Descent with Exponential Long Term Memory|2020|AdaX-W|[arxiv](https://arxiv.org/abs/2004.09740)|[code](https://github.com/switchablenorms/AdaX)|gradient descent|
+|AEGD: Adaptive Gradient Descent with Energy|2020|AEGD|[arxiv](https://arxiv.org/abs/2010.05109)|[code](https://github.com/txping/AEGD)|gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
