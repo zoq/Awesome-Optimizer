@@ -63,4 +63,5 @@ Collect optimizer related papers, data, repositories
 |AEGD: Adaptive Gradient Descent with Energy|2020|AEGD|[arxiv](https://arxiv.org/abs/2010.05109)|[code](https://github.com/txping/AEGD)|gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
+|Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
