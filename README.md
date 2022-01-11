@@ -88,6 +88,7 @@ Collect optimizer related papers, data, repositories
 |An Adaptive Remote Stochastic Gradient Method for Training Neural Networks|2019|NAMSG|[arxiv](https://arxiv.org/abs/1905.01422)|[code](https://github.com/rationalspark/NAMSG)|gradient descent|
 |Stochastic Gradient Methods with Layer-wise Adaptive Moments for Training of Deep Networks|2019|Novograd|[arxiv](https://arxiv.org/abs/1905.11286)|[code](https://github.com/convergence-lab/novograd)|gradient descent|
 |Fast-DENSER++: Evolving Fully-Trained Deep Artificial Neural Networks|2019|F-DENSER++|[arxiv](https://arxiv.org/abs/1905.02969)|[code](https://github.com/fillassuncao/fast-denser)|evolutionary|
+|Fast DENSER: Efficient Deep NeuroEvolution|2019|F-DENSER|[researchgate](https://www.researchgate.net/publication/332306893_Fast_DENSER_Efficient_Deep_NeuroEvolution)|[code](https://github.com/fillassuncao/fast-denser)|evolutionary|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
