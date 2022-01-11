@@ -4,6 +4,7 @@ Collect optimizer related papers, data, repositories
 | Title                                           |  Year    | Optimizer       | Published                                  | Code                                              | Keywords                                  |
 | ---------------------- | ---------------------- | ---------|-------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------|
 |Some methods of speeding up the convergence of iteration methods|1964|Polyak|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/0041555364901375)||gradient descent|
+|Large-scale linearly constrained optimization|1978|MINOS|[springerlink](https://link.springer.com/article/10.1007/BF01588950)||quasi-newton|
 |On the limited memory BFGS method for large scale optimization|1989|L-BFGS|[springerlink](https://link.springer.com/article/10.1007/BF01589116)||quasi-newton|
 |Particle swarm optimization|1995|PSO|[ieee](https://ieeexplore.ieee.org/document/488968)||evolutionary|
 |Trust region methods|2000|Sub-sampled TR|[siam](https://epubs.siam.org/doi/book/10.1137/1.9780898719857)||inexact hessian|
