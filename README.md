@@ -4,6 +4,7 @@ Collect optimizer related papers, data, repositories
 | Title                                           |  Year    | Optimizer       | Published                                  | Code                                              | Keywords                                  |
 | ---------------------- | ---------------------- | ---------|-------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------|
 |Some methods of speeding up the convergence of iteration methods|1964|Polyak|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/0041555364901375)||gradient descent|
+|Particle swarm optimization|1995|PSO|[ieee](https://ieeexplore.ieee.org/document/488968)||evolutionary|
 |Trust region methods|2000|Sub-sampled TR|[siam](https://epubs.siam.org/doi/book/10.1137/1.9780898719857)||inexact hessian|
 |Evolving Neural Networks through Augmenting Topologies|2002|NEAT|[ieee](https://ieeexplore.ieee.org/document/6790655)|[code](https://github.com/goktug97/NEAT)|evolutionary|
 |A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks|2009|HyperNEAT|[ieee](https://ieeexplore.ieee.org/document/6792316)||evolutionary|
