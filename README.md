@@ -96,4 +96,5 @@ Collect optimizer related papers, data, repositories
 |FastAdaBelief: Improving Convergence Rate for Belief-based Adaptive Optimizers by Exploiting Strong Convexity|2021|FastAdaBelief|[arxiv](https://arxiv.org/abs/2104.13790)||gradient descent|
 |Generalized AdaGrad (G-AdaGrad) and Adam: A State-Space Perspective|2021|G-AdaGrad|[arxiv](https://arxiv.org/abs/2106.00092)||gradient descent|
 |GOALS: Gradient-Only Approximations for Line Searches Towards Robust and Consistent Training of Deep Neural Networks|2021|GOALS|[arxiv](https://arxiv.org/abs/2105.10915)||gradient descent|
+|Learning in Deep Neural Networks Using a Biologically Inspired Optimizer|2021|GRAPES|[arxiv](https://arxiv.org/abs/2104.11604)||gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
