@@ -8,6 +8,7 @@ Collect optimizer related papers, data, repositories
 |Particle swarm optimization|1995|PSO|[ieee](https://ieeexplore.ieee.org/document/488968)||evolutionary|
 |Trust region methods|2000|Sub-sampled TR|[siam](https://epubs.siam.org/doi/book/10.1137/1.9780898719857)||inexact hessian|
 |Evolving Neural Networks through Augmenting Topologies|2002|NEAT|[ieee](https://ieeexplore.ieee.org/document/6790655)|[code](https://github.com/goktug97/NEAT)|evolutionary|
+|A Limited Memory Algorithm for Bound Constrained Optimization|2003|L-BFGS-B|[researchgate](https://www.researchgate.net/publication/2837734_A_Limited_Memory_Algorithm_for_Bound_Constrained_Optimization)|[code](http://users.iems.northwestern.edu/\~nocedal/lbfgsb.html)|quasi-newton|
 |A Stochastic Quasi-Newton Method for Online Convex Optimization|2007|O-LBFGS|[researchgate](https://www.researchgate.net/publication/220319999_A_Stochastic_Quasi-Newton_Method_for_Online_Convex_Optimization)||quasi-newton|
 |Scalable training of L1-regularized log-linear models|2007|OWL-QN|[acm](https://dl.acm.org/doi/10.1145/1273496.1273501)|[code](https://github.com/langholz/owlqn)|quasi-newton|
 |A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks|2009|HyperNEAT|[ieee](https://ieeexplore.ieee.org/document/6792316)||evolutionary|
