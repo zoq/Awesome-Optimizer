@@ -46,6 +46,7 @@ Collect optimizer related papers, data, repositories
 |Noisy Natural Gradient as Variational Inference|2017|Noisy K-FAC|[arxiv](https://arxiv.org/abs/1712.02390)|[code](https://github.com/gd-zhang/noisy-K-FAC)|gradient descent|
 |Evolving Deep Neural Networks|2017|CoDeepNEAT|[arxiv](https://arxiv.org/abs/1703.00548)|[code](https://github.com/sbcblab/Keras-CoDeepNEAT)|evolutionary|
 |Evolving Deep Convolutional Neural Networks for Image Classification|2017|EvoCNN|[arxiv](https://arxiv.org/abs/1710.10741)|[code](https://github.com/MagnusCaligo/EvoCNN)|evolutionary|
+|NMODE --- Neuro-MODule Evolution|2017|NMODE|[arxiv](https://arxiv.org/abs/1701.05121)|[code](https://github.com/kzahedi/NMODE)|evolutionary|
 |Adafactor: Adaptive Learning Rates with Sublinear Memory Cost|2018|Adafactor|[arxiv](https://arxiv.org/abs/1804.04235)|[code](https://github.com/DeadAt0m/adafactor-pytorch)|gradient descent|
 |Quasi-hyperbolic momentum and Adam for deep learning|2018|QHAdam|[arxiv](https://arxiv.org/abs/1810.06801)|[code](https://github.com/facebookresearch/qhoptim)|gradient descent|
 |Online Adaptive Methods, Universality and Acceleration|2018|AcceleGrad|[arxiv](https://arxiv.org/abs/1809.02864)||gradient descent|
