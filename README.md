@@ -53,6 +53,7 @@ Collect optimizer related papers, data, repositories
 |HyperAdam: A Learnable Task-Adaptive Adam for Network Training|2018|HyperAdam|[arxiv](https://arxiv.org/abs/1811.08996)|[code](https://github.com/ShipengWang/HyperAdam)|gradient descent|
 |L4: Practical loss-based stepsize adaptation for deep learning|2018|L4Adam|[arxiv](https://arxiv.org/abs/1802.05074)|[code](https://github.com/martius-lab/l4-optimizer)|gradient descent|
 |L4: Practical loss-based stepsize adaptation for deep learning|2018|L4Momentum|[arxiv](https://arxiv.org/abs/1802.05074)|[code](https://github.com/martius-lab/l4-optimizer)|gradient descent|
+|Nostalgic Adam: Weighting more of the past gradients when designing the adaptive learning rate|2018|NosAdam|[arxiv](https://arxiv.org/abs/1805.07557)|[code](https://github.com/andrehuang/NostalgicAdam-NosAdam)|gradient descent|
 |On the Convergence of Adam and Beyond|2019|AMSGrad|[arxiv](https://arxiv.org/abs/1904.09237)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adam.py#L6)|gradient descent|
 |Local AdaAlter: Communication-Efficient Stochastic Gradient Descent with Adaptive Learning Rates|2019|AdaAlter|[arxiv](https://arxiv.org/abs/1911.09030)|[code](https://github.com/xcgoner/AISTATS2020-AdaAlter-GluonNLP)|gradient descent|
 |Adaptive Gradient Methods with Dynamic Bound of Learning Rate|2019|AdaBound|[arxiv](https://arxiv.org/abs/1902.09843)|[code](https://github.com/Luolc/AdaBound)|gradient descent|
