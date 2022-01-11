@@ -36,6 +36,7 @@ Collect optimizer related papers, data, repositories
 |Practical Gauss-Newton Optimisation for Deep Learning|2017|KFRA|[arxiv](https://arxiv.org/abs/1706.03662)||gradient descent|
 |Large Batch Training of Convolutional Networks|2017|LARS|[arxiv](https://arxiv.org/abs/1708.03888)|[code](https://github.com/noahgolmant/pytorch-lars)|gradient descent|
 |Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients|2017|M-SVAG|[arxiv](https://arxiv.org/abs/1705.07774)|[code](https://github.com/lballes/msvag)|gradient descent|
+|Normalized Direction-preserving Adam|2017|ND-Adam|[arxiv](https://arxiv.org/abs/1709.04546)|[code](https://github.com/zj10/ND-Adam)|gradient descent|
 |Adafactor: Adaptive Learning Rates with Sublinear Memory Cost|2018|Adafactor|[arxiv](https://arxiv.org/abs/1804.04235)|[code](https://github.com/DeadAt0m/adafactor-pytorch)|gradient descent|
 |Quasi-hyperbolic momentum and Adam for deep learning|2018|QHAdam|[arxiv](https://arxiv.org/abs/1810.06801)|[code](https://github.com/facebookresearch/qhoptim)|gradient descent|
 |Online Adaptive Methods, Universality and Acceleration|2018|AcceleGrad|[arxiv](https://arxiv.org/abs/1809.02864)||gradient descent|
