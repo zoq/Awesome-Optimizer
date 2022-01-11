@@ -33,6 +33,7 @@ Collect optimizer related papers, data, repositories
 |Training Deep Networks without Learning Rates Through Coin Betting|2017|COCOB|[arxiv](https://arxiv.org/abs/1705.07795)|[code](https://github.com/bremen79/cocob)|gradient descent|
 |Practical Gauss-Newton Optimisation for Deep Learning|2017|KFLR|[arxiv](https://arxiv.org/abs/1706.03662)||gradient descent|
 |Practical Gauss-Newton Optimisation for Deep Learning|2017|KFRA|[arxiv](https://arxiv.org/abs/1706.03662)||gradient descent|
+|Large Batch Training of Convolutional Networks|2017|LARS|[arxiv](https://arxiv.org/abs/1708.03888)|[code](https://github.com/noahgolmant/pytorch-lars)|gradient descent|
 |Adafactor: Adaptive Learning Rates with Sublinear Memory Cost|2018|Adafactor|[arxiv](https://arxiv.org/abs/1804.04235)|[code](https://github.com/DeadAt0m/adafactor-pytorch)|gradient descent|
 |Quasi-hyperbolic momentum and Adam for deep learning|2018|QHAdam|[arxiv](https://arxiv.org/abs/1810.06801)|[code](https://github.com/facebookresearch/qhoptim)|gradient descent|
 |Online Adaptive Methods, Universality and Acceleration|2018|AcceleGrad|[arxiv](https://arxiv.org/abs/1809.02864)||gradient descent|
