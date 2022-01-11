@@ -95,6 +95,7 @@ Collect optimizer related papers, data, repositories
 |Gravilon: Applications of a New Gradient Descent Method to Machine Learning|2020|Gravilon|[arxiv](https://arxiv.org/abs/2008.11370)||gradient descent|
 |Practical Quasi-Newton Methods for Training Deep Neural Networks|2020|K-BFGS|[arxiv](https://arxiv.org/abs/2006.08877)|[code](https://github.com/renyiryry/kbfgs_neurips2020_public)|gradient descent|
 |Practical Quasi-Newton Methods for Training Deep Neural Networks|2020|K-BFGS(L)|[arxiv](https://arxiv.org/abs/2006.08877)|[code](https://github.com/renyiryry/kbfgs_neurips2020_public)|gradient descent|
+|LaProp: Separating Momentum and Adaptivity in Adam|2020|LaProp|[arxiv](https://arxiv.org/abs/2002.04839)|[code](https://github.com/Z-T-WANG/LaProp-Optimizer)|gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
 |Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
