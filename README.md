@@ -122,4 +122,5 @@ Collect optimizer related papers, data, repositories
 |Kronecker-factored Quasi-Newton Methods for Convolutional Neural Networks|2021|KF-QN-CNN|[arxiv](https://arxiv.org/abs/2102.06737)||gradient descent|
 |A Generalizable Approach to Learning Optimizers|2021|LHOPT|[arxiv](https://arxiv.org/abs/2106.00958)|[code](https://github.com/openai/LHOPT)|gradient descent|
 |Adaptivity without Compromise: A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization|2021|MADGRAD|[arxiv](https://arxiv.org/abs/2101.11075)|[code](https://github.com/facebookresearch/madgrad)|gradient descent|
+|Learning by Turning: Neural Architecture Aware Optimisation|2021|Nero|[arxiv](https://arxiv.org/abs/2102.07227)|[code](https://github.com/jxbz/nero)|gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
