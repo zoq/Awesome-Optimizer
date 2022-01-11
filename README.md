@@ -85,6 +85,7 @@ Collect optimizer related papers, data, repositories
 |Stochastic Gradient Descent with Nonlinear Conjugate Gradient-Style Adaptive Momentum|2020|FRSGD|[arxiv](https://arxiv.org/abs/2012.02188)||gradient descent|
 |Iterative Averaging in the Quest for Best Test Error|2020|Gadam|[arxiv](https://arxiv.org/abs/2003.01247)||gradient descent|
 |A Variant of Gradient Descent Algorithm Based on Gradient Averaging|2020|Grad-Avg|[arxiv](https://arxiv.org/abs/2012.02387)||gradient descent|
+|Gravilon: Applications of a New Gradient Descent Method to Machine Learning|2020|Gravilon|[arxiv](https://arxiv.org/abs/2008.11370)||gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
 |Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
