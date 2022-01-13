@@ -30,6 +30,7 @@ Collect optimizer related papers, data, repositories
 |Accelerating SVRG via second-order information|2015|SVRG+I: Subsampled Hessian followed by SVT|[opt](https://opt-ml.org/oldopt/opt15/papers.html)||quasi-newton|
 |Probabilistic Line Searches for Stochastic Optimization|2015|ProbLS|[arxiv](https://arxiv.org/abs/1502.02846)||gradient descent|
 |Optimizing Neural Networks with Kronecker-factored Approximate Curvature|2015|K-FAC|[arxiv](https://arxiv.org/abs/1503.05671)|[code](https://github.com/tensorflow/kfac)|gradient descent|
+|adaQN: An Adaptive Quasi-Newton Algorithm for Training RNNs|2015|adaQN|[arxiv](https://arxiv.org/abs/1511.01169)|[code](https://github.com/david-cortes/stochQN)|quasi-newton|
 |Stochastic Quasi-Newton Methods for Nonconvex Stochastic Optimization|2016|Damp-oBFGS-Inf|[arxiv](https://arxiv.org/abs/1607.01231)|[code](https://github.com/harryliew/SdLBFGS)|quasi-newton|
 |Eve: A Gradient Based Optimization Method with Locally and Globally Adaptive Learning Rates|2016|Eve|[arxiv](https://arxiv.org/abs/1611.01505)|[code](https://github.com/K2OTO/Eve)|gradient descent|
 |Incorporating Nesterov Momentum into Adam|2016|Nadam|[openreview](https://openreview.net/forum\?id\=OM0jvwB8jIp57ZJjtNEZ)|[code](https://github.com/rwightman/pytorch-image-models/blob/master/timm/optim/nadam.py)|gradient descent|
