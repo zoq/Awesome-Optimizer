@@ -134,6 +134,7 @@ Collect optimizer related papers, data, repositories
 |Momentum with Variance Reduction for Nonconvex Composition Optimization|2020|MVRC-1|[arxiv](https://arxiv.org/abs/2005.07755)||gradient descent|
 |Momentum with Variance Reduction for Nonconvex Composition Optimization|2020|MVRC-2|[arxiv](https://arxiv.org/abs/2005.07755)||gradient descent|
 |PAGE: A Simple and Optimal Probabilistic Gradient Estimator for Nonconvex Optimization|2020|PAGE|[arxiv](https://arxiv.org/abs/2008.10898)||gradient descent|
+|Momentum-based variance-reduced proximal stochastic gradient method for composite nonconvex stochastic optimization|2020|PSTorm|[arxiv](https://arxiv.org/abs/2006.00425)||gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
 |Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
