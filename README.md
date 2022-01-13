@@ -97,6 +97,7 @@ Collect optimizer related papers, data, repositories
 |Fast-DENSER++: Evolving Fully-Trained Deep Artificial Neural Networks|2019|F-DENSER++|[arxiv](https://arxiv.org/abs/1905.02969)|[code](https://github.com/fillassuncao/fast-denser)|evolutionary|
 |Fast DENSER: Efficient Deep NeuroEvolution|2019|F-DENSER|[researchgate](https://www.researchgate.net/publication/332306893_Fast_DENSER_Efficient_Deep_NeuroEvolution)|[code](https://github.com/fillassuncao/fast-denser)|evolutionary|
 |Parabolic Approximation Line Search for DNNs|2019|PAL|[arxiv](https://arxiv.org/abs/1903.11991)|[code](https://github.com/cogsys-tuebingen/PAL)|gradient descent|
+|The Role of Memory in Stochastic Optimization|2019|PolyAdam|[arxiv](https://arxiv.org/abs/1907.01678)||gradient descent|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
