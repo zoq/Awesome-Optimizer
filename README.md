@@ -156,4 +156,5 @@ Collect optimizer related papers, data, repositories
 |Learning by Turning: Neural Architecture Aware Optimisation|2021|Nero|[arxiv](https://arxiv.org/abs/2102.07227)|[code](https://github.com/jxbz/nero)|gradient descent|
 |Noisy Truncated SGD: Optimization and Generalization|2021|NT-SGD|[arxiv](https://arxiv.org/abs/2103.00075)||gradient descent|
 |A Probabilistically Motivated Learning Rate Adaptation for Stochastic Optimization|2021|Probabilistic Polyak|[arxiv](https://arxiv.org/abs/2102.10880)||gradient descent|
+|Ranger21 - integrating the latest deep learning components into a single optimizer|2021|Ranger21|[github](https://github.com/lessw2020/Ranger21)|[code](https://github.com/lessw2020/Ranger21)|gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
