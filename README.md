@@ -102,6 +102,7 @@ Collect optimizer related papers, data, repositories
 |The Role of Memory in Stochastic Optimization|2019|PolyAdam|[arxiv](https://arxiv.org/abs/1907.01678)||gradient descent|
 |PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization|2019|PowerSGD|[arxiv](https://arxiv.org/abs/1905.13727)|[code](https://github.com/epfml/powersgd)|gradient descent|
 |PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization|2019|PowerSGDM|[arxiv](https://arxiv.org/abs/1905.13727)|[code](https://github.com/epfml/powersgd)|gradient descent|
+|On the Variance of the Adaptive Learning Rate and Beyond|2019|RAdam|[arxiv](https://arxiv.org/abs/1908.03265)|[code](https://github.com/LiyuanLucasLiu/RAdam)|gradient descent|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
