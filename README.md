@@ -3,6 +3,7 @@ Collect optimizer related papers, data, repositories
 
 | Title                                           |  Year    | Optimizer       | Published                                  | Code                                              | Keywords                                  |
 | ---------------------- | ---------------------- | ---------|-------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------|
+|A Stochastic Approximation Method|1951|SGD|[projecteuclid](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-22/issue-3/A-Stochastic-Approximation-Method/10.1214/aoms/1177729586.full)|[code](https://github.com/mlpack/ensmallen/tree/master/include/ensmallen_bits/sgd)|gradient descent|
 |Some methods of speeding up the convergence of iteration methods|1964|Polyak|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/0041555364901375)||gradient descent|
 |Large-scale linearly constrained optimization|1978|MINOS|[springerlink](https://link.springer.com/article/10.1007/BF01588950)||quasi-newton|
 |On the limited memory BFGS method for large scale optimization|1989|L-BFGS|[springerlink](https://link.springer.com/article/10.1007/BF01589116)||quasi-newton|
