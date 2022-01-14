@@ -178,4 +178,5 @@ Collect optimizer related papers, data, repositories
 |On the Generalization of Stochastic Gradient Descent with Momentum|2021|SGDEM|[arxiv](https://arxiv.org/abs/2102.13653)||gradient descent|
 |Positive-Negative Momentum: Manipulating Stochastic Gradient Noise to Improve Generalization|2021|PNM|[arxiv](https://arxiv.org/abs/2103.17182)|[code](https://github.com/zeke-xie/Positive-Negative-Momentum)|gradient descent|
 |Positive-Negative Momentum: Manipulating Stochastic Gradient Noise to Improve Generalization|2021|AdaPNM|[arxiv](https://arxiv.org/abs/2103.17182)|[code](https://github.com/zeke-xie/Positive-Negative-Momentum)|gradient descent|
+|Better SGD using Second-order Momentum|2021|SGDHess|[arxiv](https://arxiv.org/abs/2103.03265)|[code](https://github.com/tranhp98/SGDHess)|gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
