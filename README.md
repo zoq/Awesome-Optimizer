@@ -38,6 +38,8 @@ Collect optimizer related papers, data, repositories
 |Incorporating Nesterov Momentum into Adam|2016|Nadam|[openreview](https://openreview.net/forum\?id\=OM0jvwB8jIp57ZJjtNEZ)|[code](https://github.com/rwightman/pytorch-image-models/blob/master/timm/optim/nadam.py)|gradient descent|
 |The Whale Optimization Algorithm|2016|WOA|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0965997816300163)|[code](https://github.com/docwza/woa)|evolutionary|
 |Adaptive Learning Rate via Covariance Matrix Based Preconditioning for Deep Neural Networks|2016|SDProp|[arxiv](https://arxiv.org/abs/1605.09593)||gradient descent|
+|Barzilai-Borwein Step Size for Stochastic Gradient Descent|2016|SGD-BB|[arxiv](https://arxiv.org/abs/1605.04131)|[code](https://github.com/tanconghui/Stochastic_BB)|gradient descent|
+|Barzilai-Borwein Step Size for Stochastic Gradient Descent|2016|SVRG-BB|[arxiv](https://arxiv.org/abs/1605.04131)|[code](https://github.com/tanconghui/Stochastic_BB)|variance reduced|
 |AdaBatch: Adaptive Batch Sizes for Training Deep Neural Networks|2017|AdaBatch|[arxiv](https://arxiv.org/abs/1712.02029)|[code](https://github.com/GXU-GMU-MICCAI/AdaBatch-numerical-experiments)|gradient descent|
 |AdaComp : Adaptive Residual Gradient Compression for Data-Parallel Distributed Training|2017|AdaComp|[arxiv](https://arxiv.org/abs/1712.02679)||gradient descent|
 |SARAH: A Novel Method for Machine Learning Problems Using Stochastic Recursive Gradient|2017|SARAH|[arxiv](https://arxiv.org/abs/1703.00102)||variance reduced|
