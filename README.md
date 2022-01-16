@@ -20,6 +20,9 @@ Collect optimizer related papers, data, repositories
 |An Enhanced Hypercube-Based Encoding for Evolving the Placement, Density, and Connectivity of Neurons|2012|ES-HyperNEAT|[ieee](https://ieeexplore.ieee.org/document/6792180)|[code](https://github.com/yaricom/goESHyperNEAT)|evolutionary|
 |CMA-TWEANN: efficient optimization of neural networks via self-adaptation and seamless augmentation|2012|CMA-TWEANN|[acm](https://dl.acm.org/doi/abs/10.1145/2330163.2330288)||evolutionary|
 |Neural Networks for Machine Learning|2012|RMSProp|[coursera](http://www.cs.toronto.edu/\~hinton/coursera/lecture6/lec6.pdf)|[code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/rmsprop.py)|gradient descent|
+|No More Pesky Learning Rates|2012|vSGD-b|[arxiv](https://arxiv.org/abs/1206.1106)|[code](https://github.com/rlowrance/vsgd)|variance reduced|
+|No More Pesky Learning Rates|2012|vSGD-g|[arxiv](https://arxiv.org/abs/1206.1106)|[code](https://github.com/rlowrance/vsgd)|variance reduced|
+|No More Pesky Learning Rates|2012|vSGD-l|[arxiv](https://arxiv.org/abs/1206.1106)|[code](https://github.com/rlowrance/vsgd)|variance reduced|
 |Accelerating stochastic gradient descent using predictive variance reduction|2013|SVRG|[neurips](https://papers.nips.cc/paper/2013/hash/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Abstract.html)|[code](https://github.com/kilianFatras/variance_reduced_neural_networks)|variance reduced|
 |Adam: A Method for Stochastic Optimization|2014|Adam|[arxiv](https://arxiv.org/abs/1412.6980)|[code](https://paperswithcode.com/paper/adam-a-method-for-stochastic-optimization)|gradient descent|
 |SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives|2014|SAGA|[arxiv](https://arxiv.org/abs/1407.0202)|[code](https://github.com/elmahdichayti/SAGA)|variance reduced|
