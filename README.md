@@ -63,6 +63,7 @@ Collect optimizer related papers, data, repositories
 |Online Convex Optimization with Unconstrained Domains and Losses|2017|RescaledExp|[arxiv](https://arxiv.org/abs/1703.02622)||gradient descent|
 |Variants of RMSProp and Adagrad with Logarithmic Regret Bounds|2017|SC-Adagrad|[arxiv](https://arxiv.org/abs/1706.05507)|[code](https://github.com/mmahesh/variants-of-rmsprop-and-adagrad)|gradient descent|
 |Variants of RMSProp and Adagrad with Logarithmic Regret Bounds|2017|SC-RMSProp|[arxiv](https://arxiv.org/abs/1706.05507)|[code](https://github.com/mmahesh/variants-of-rmsprop-and-adagrad)|gradient descent|
+|Improving Generalization Performance by Switching from Adam to SGD|2017|SWATS|[arxiv](https://arxiv.org/abs/1712.07628)|[code](https://github.com/Mrpatekful/swats)|gradient descent|
 |Adafactor: Adaptive Learning Rates with Sublinear Memory Cost|2018|Adafactor|[arxiv](https://arxiv.org/abs/1804.04235)|[code](https://github.com/DeadAt0m/adafactor-pytorch)|gradient descent|
 |Quasi-hyperbolic momentum and Adam for deep learning|2018|QHAdam|[arxiv](https://arxiv.org/abs/1810.06801)|[code](https://github.com/facebookresearch/qhoptim)|gradient descent|
 |Online Adaptive Methods, Universality and Acceleration|2018|AcceleGrad|[arxiv](https://arxiv.org/abs/1809.02864)||gradient descent|
