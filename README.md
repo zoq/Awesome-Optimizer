@@ -83,6 +83,7 @@ Collect optimizer related papers, data, repositories
 |Optimal Adaptive and Accelerated Stochastic Gradient Descent|2018|A2GradInc|[arxiv](https://arxiv.org/abs/1810.00553)|[code](https://github.com/severilov/A2Grad_optimizer)|gradient descent|
 |Optimal Adaptive and Accelerated Stochastic Gradient Descent|2018|A2GradUni|[arxiv](https://arxiv.org/abs/1810.00553)|[code](https://github.com/severilov/A2Grad_optimizer)|gradient descent|
 |Shampoo: Preconditioned Stochastic Tensor Optimization|2018|Shampoo|[arxiv](https://arxiv.org/abs/1802.09568)|[code](https://github.com/Daniil-Selikhanovych/Shampoo_optimizer)|gradient descent|
+|signSGD: Compressed Optimisation for Non-Convex Problems|2018|signSGD|[arxiv](https://arxiv.org/abs/1802.04434)|[code](https://github.com/jxbz/signSGD)|gradient descent|
 |On the Convergence of Adam and Beyond|2019|AMSGrad|[arxiv](https://arxiv.org/abs/1904.09237)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adam.py#L6)|gradient descent|
 |Local AdaAlter: Communication-Efficient Stochastic Gradient Descent with Adaptive Learning Rates|2019|AdaAlter|[arxiv](https://arxiv.org/abs/1911.09030)|[code](https://github.com/xcgoner/AISTATS2020-AdaAlter-GluonNLP)|gradient descent|
 |Adaptive Gradient Methods with Dynamic Bound of Learning Rate|2019|AdaBound|[arxiv](https://arxiv.org/abs/1902.09843)|[code](https://github.com/Luolc/AdaBound)|gradient descent|
