@@ -121,6 +121,8 @@ Collect optimizer related papers, data, repositories
 |SAdam: A Variant of Adam for Strongly Convex Functions|2019|SAdam|[arxiv](https://arxiv.org/abs/1905.02957)|[code](https://github.com/SAdam-ICLR2020/codes)|gradient descent|
 |Calibrating the Adaptive Learning Rate to Improve Convergence of ADAM|2019|Sadam|[arxiv](https://arxiv.org/abs/1908.00700)|[code](https://github.com/neilliang90/Sadam)|gradient descent|
 |Calibrating the Adaptive Learning Rate to Improve Convergence of ADAM|2019|SAMSGrad|[arxiv](https://arxiv.org/abs/1908.00700)|[code](https://github.com/neilliang90/Sadam)|gradient descent|
+|signADAM: Learning Confidences for Deep Neural Networks|2019|signADAM|[arxiv](https://arxiv.org/abs/1907.09008)|[code](https://github.com/DongWanginxdu/signADAM-Learn-by-Confidence)|gradient descent|
+|signADAM: Learning Confidences for Deep Neural Networks|2019|signADAM++|[arxiv](https://arxiv.org/abs/1907.09008)|[code](https://github.com/DongWanginxdu/signADAM-Learn-by-Confidence)|gradient descent|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
