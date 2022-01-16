@@ -40,6 +40,7 @@ Collect optimizer related papers, data, repositories
 |Adaptive Learning Rate via Covariance Matrix Based Preconditioning for Deep Neural Networks|2016|SDProp|[arxiv](https://arxiv.org/abs/1605.09593)||gradient descent|
 |Barzilai-Borwein Step Size for Stochastic Gradient Descent|2016|SGD-BB|[arxiv](https://arxiv.org/abs/1605.04131)|[code](https://github.com/tanconghui/Stochastic_BB)|gradient descent|
 |Barzilai-Borwein Step Size for Stochastic Gradient Descent|2016|SVRG-BB|[arxiv](https://arxiv.org/abs/1605.04131)|[code](https://github.com/tanconghui/Stochastic_BB)|variance reduced|
+|SGDR: Stochastic Gradient Descent with Warm Restarts|2016|SGDR|[arxiv](https://arxiv.org/abs/1608.03983)|[code](https://github.com/loshchil/SGDR)|gradient descent|
 |AdaBatch: Adaptive Batch Sizes for Training Deep Neural Networks|2017|AdaBatch|[arxiv](https://arxiv.org/abs/1712.02029)|[code](https://github.com/GXU-GMU-MICCAI/AdaBatch-numerical-experiments)|gradient descent|
 |AdaComp : Adaptive Residual Gradient Compression for Data-Parallel Distributed Training|2017|AdaComp|[arxiv](https://arxiv.org/abs/1712.02679)||gradient descent|
 |SARAH: A Novel Method for Machine Learning Problems Using Stochastic Recursive Gradient|2017|SARAH|[arxiv](https://arxiv.org/abs/1703.00102)||variance reduced|
