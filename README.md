@@ -170,6 +170,7 @@ Collect optimizer related papers, data, repositories
 |Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs|2020|SHAdaGrad|[arxiv](https://arxiv.org/abs/2006.07037)||gradient descent|
 |Enhance Curvature Information by Structured Stochastic Quasi-Newton Methods|2020|SKQN|[arxiv](https://arxiv.org/abs/2006.09606)||gradient descent|
 |Enhance Curvature Information by Structured Stochastic Quasi-Newton Methods|2020|S4QN|[arxiv](https://arxiv.org/abs/2006.09606)||gradient descent|
+|SMG: A Shuffling Gradient-Based Method with Momentum|2020|SMG|[arxiv](https://arxiv.org/abs/2011.11884)||gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
 |Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
