@@ -15,6 +15,7 @@ Collect optimizer related papers, data, repositories
 |Scalable training of L1-regularized log-linear models|2007|OWL-QN|[acm](https://dl.acm.org/doi/10.1145/1273496.1273501)|[code](https://github.com/langholz/owlqn)|quasi-newton|
 |A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks|2009|HyperNEAT|[ieee](https://ieeexplore.ieee.org/document/6792316)||evolutionary|
 |Adaptive Subgradient Methods for Online Learning and Stochastic Optimization|2011|AdaGrad|[jmlr](https://jmlr.org/papers/v12/duchi11a.html)|[code](https://github.com/mlpack/ensmallen/tree/master/include/ensmallen_bits/ada_grad)|gradient descent|
+|CMA-ES: evolution strategies and covariance matrix adaptation|2011|CMA-ES|[acm](https://dl.acm.org/doi/10.1145/2001858.2002123)|[code](https://github.com/srom/cma-es)|evolutionary|
 |ADADELTA: An Adaptive Learning Rate Method|2012|ADADELTA|[arxiv](https://arxiv.org/abs/1212.5701v1)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adadelta.py\#L6)|gradient descent|
 |A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets|2012|SAG|[arxiv](https://arxiv.org/abs/1202.6258)||variance reduced|
 |An Enhanced Hypercube-Based Encoding for Evolving the Placement, Density, and Connectivity of Neurons|2012|ES-HyperNEAT|[ieee](https://ieeexplore.ieee.org/document/6792180)|[code](https://github.com/yaricom/goESHyperNEAT)|evolutionary|
