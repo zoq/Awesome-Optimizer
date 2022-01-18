@@ -101,6 +101,7 @@ Collect optimizer related papers, data, repositories
 |Adaptive Methods for Nonconvex Optimization|2018|Yogi|[neurips](https://papers.nips.cc/paper/2018/hash/90365351ccc7437a1309dc64e4db32a3-Abstract.html)|[code](https://github.com/4rtemi5/Yogi-Optimizer_Keras)|gradient descent|
 |First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time|2018|NEON|[arxiv](https://arxiv.org/abs/1711.01944)||gradient descent|
 |Katyusha X: Practical Momentum Method for Stochastic Sum-of-Nonconvex Optimization|2018|Katyusha X|[arxiv](https://arxiv.org/abs/1802.03866)||variance reduced|
+|PSA-CMA-ES: CMA-ES with population size adaptation|2018|PSA-CMA-ES|[acm](https://dl.acm.org/doi/10.1145/3205455.3205467)||evolutionary|
 |On the Convergence of Adam and Beyond|2019|AMSGrad|[arxiv](https://arxiv.org/abs/1904.09237)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adam.py#L6)|gradient descent|
 |Local AdaAlter: Communication-Efficient Stochastic Gradient Descent with Adaptive Learning Rates|2019|AdaAlter|[arxiv](https://arxiv.org/abs/1911.09030)|[code](https://github.com/xcgoner/AISTATS2020-AdaAlter-GluonNLP)|gradient descent|
 |Adaptive Gradient Methods with Dynamic Bound of Learning Rate|2019|AdaBound|[arxiv](https://arxiv.org/abs/1902.09843)|[code](https://github.com/Luolc/AdaBound)|gradient descent|
