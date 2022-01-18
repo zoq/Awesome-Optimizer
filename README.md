@@ -96,6 +96,7 @@ Collect optimizer related papers, data, repositories
 |VR-SGD: A Simple Stochastic Variance Reduction Method for Machine Learning|2018|VR-SGD|[arxiv](https://arxiv.org/abs/1802.09932)|[code](https://github.com/jnhujnhu/VR-SGD)|gradient descent|
 |WNGrad: Learn the Learning Rate in Gradient Descent|2018|WNGrad|[arxiv](https://arxiv.org/abs/1803.02865)|[code](https://github.com/mlpack/ensmallen/tree/master/include/ensmallen_bits/wn_grad)|gradient descent|
 |Adaptive Methods for Nonconvex Optimization|2018|Yogi|[neurips](https://papers.nips.cc/paper/2018/hash/90365351ccc7437a1309dc64e4db32a3-Abstract.html)|[code](https://github.com/4rtemi5/Yogi-Optimizer_Keras)|gradient descent|
+|First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time|2018|NEON|[arxiv](https://arxiv.org/abs/1711.01944)||gradient descent|
 |On the Convergence of Adam and Beyond|2019|AMSGrad|[arxiv](https://arxiv.org/abs/1904.09237)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adam.py#L6)|gradient descent|
 |Local AdaAlter: Communication-Efficient Stochastic Gradient Descent with Adaptive Learning Rates|2019|AdaAlter|[arxiv](https://arxiv.org/abs/1911.09030)|[code](https://github.com/xcgoner/AISTATS2020-AdaAlter-GluonNLP)|gradient descent|
 |Adaptive Gradient Methods with Dynamic Bound of Learning Rate|2019|AdaBound|[arxiv](https://arxiv.org/abs/1902.09843)|[code](https://github.com/Luolc/AdaBound)|gradient descent|
