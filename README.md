@@ -71,6 +71,8 @@ Collect optimizer related papers, data, repositories
 |Variants of RMSProp and Adagrad with Logarithmic Regret Bounds|2017|SC-RMSProp|[arxiv](https://arxiv.org/abs/1706.05507)|[code](https://github.com/mmahesh/variants-of-rmsprop-and-adagrad)|gradient descent|
 |Improving Generalization Performance by Switching from Adam to SGD|2017|SWATS|[arxiv](https://arxiv.org/abs/1712.07628)|[code](https://github.com/Mrpatekful/swats)|gradient descent|
 |YellowFin and the Art of Momentum Tuning|2017|YellowFin|[arxiv](https://arxiv.org/abs/1706.03471)|[code](https://github.com/JianGoForIt/YellowFin)|gradient descent|
+|Natasha 2: Faster Non-Convex Optimization Than SGD|2017|Natasha2|[arxiv](https://arxiv.org/abs/1708.08694)||gradient descent|
+|Natasha 2: Faster Non-Convex Optimization Than SGD|2017|Natasha1.5|[arxiv](https://arxiv.org/abs/1708.08694)||gradient descent|
 |Adafactor: Adaptive Learning Rates with Sublinear Memory Cost|2018|Adafactor|[arxiv](https://arxiv.org/abs/1804.04235)|[code](https://github.com/DeadAt0m/adafactor-pytorch)|gradient descent|
 |Quasi-hyperbolic momentum and Adam for deep learning|2018|QHAdam|[arxiv](https://arxiv.org/abs/1810.06801)|[code](https://github.com/facebookresearch/qhoptim)|gradient descent|
 |Online Adaptive Methods, Universality and Acceleration|2018|AcceleGrad|[arxiv](https://arxiv.org/abs/1809.02864)||gradient descent|
