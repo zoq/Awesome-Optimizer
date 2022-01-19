@@ -28,6 +28,8 @@ Collect optimizer related papers, data, repositories
 |Accelerating stochastic gradient descent using predictive variance reduction|2013|SVRG|[neurips](https://papers.nips.cc/paper/2013/hash/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Abstract.html)|[code](https://github.com/kilianFatras/variance_reduced_neural_networks)|variance reduced|
 |Adaptive learning rates and parallelization for stochastic, sparse, non-smooth gradients|2013|vSGD-fd|[arxiv](https://arxiv.org/abs/1301.3764)||gradient descent|
 |Stochastic First- and Zeroth-order Methods for Nonconvex Stochastic Programming|2013|ZO-SGD|[arxiv](https://arxiv.org/abs/1309.5549)||gradient free|
+|Mini-batch Stochastic Approximation Methods for Nonconvex Stochastic Composite Optimization|2013|ZO-ProxSGD|[arxiv](https://arxiv.org/abs/1308.6594)||gradient free|
+|Mini-batch Stochastic Approximation Methods for Nonconvex Stochastic Composite Optimization|2013|ZO-PSGD|[arxiv](https://arxiv.org/abs/1308.6594)||gradient free|
 |Adam: A Method for Stochastic Optimization|2014|Adam|[arxiv](https://arxiv.org/abs/1412.6980)|[code](https://paperswithcode.com/paper/adam-a-method-for-stochastic-optimization)|gradient descent|
 |SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives|2014|SAGA|[arxiv](https://arxiv.org/abs/1407.0202)|[code](https://github.com/elmahdichayti/SAGA)|variance reduced|
 |A Stochastic Quasi-Newton Method for Large-Scale Optimization|2014|SQN|[arxiv](https://arxiv.org/abs/1401.7020)|[code](https://github.com/keskarnitish/minSQN)|quasi-newton|
