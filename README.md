@@ -227,4 +227,5 @@ Collect optimizer related papers, data, repositories
 |Better SGD using Second-order Momentum|2021|SGDHess|[arxiv](https://arxiv.org/abs/2103.03265)|[code](https://github.com/tranhp98/SGDHess)|gradient descent|
 |Second-order step-size tuning of SGD for non-convex optimization|2021|Step-Tuned SGD|[arxiv](https://arxiv.org/abs/2103.03570)|[code](https://github.com/Abdoulaye-Koroko/Second-order-step-size-tuning-of-SGD-for-non-convex-optimization)|gradient descent|
 |AdamD: Improved bias-correction in Adam|2021|AdamD|[arxiv](https://arxiv.org/abs/2110.10828)|[code](https://github.com/kozistr/pytorch_optimizer)|gradient descent|
+|Adaptive shot allocation for fast convergence in variational quantum algorithms|2021|gCANS|[arxiv](https://arxiv.org/abs/2108.10434)||gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
