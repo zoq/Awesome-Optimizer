@@ -206,6 +206,7 @@ Collect optimizer related papers, data, repositories
 |pbSGD: Powered Stochastic Gradient Descent Methods for Accelerated Non-Convex Optimization|2020|pbSGD|[ijcai](https://www.ijcai.org/proceedings/2020/451)|[code](https://github.com/HAIRLAB/pbSGD)|gradient descent|
 |Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization|2020|Apollo|[arxiv](https://arxiv.org/abs/2009.13586)|[code](https://github.com/XuezheMax/apollo)|quasi-newton|
 |Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization|2020|ApolloW|[arxiv](https://arxiv.org/abs/2009.13586)|[code](https://github.com/XuezheMax/apollo)|quasi-newton|
+|Slime mould algorithm: A new method for stochastic optimization|2020|SMA|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19320941)|[code](http://mdm.wzu.edu.cn/SMA.html)|evolutionary|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
 |Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
