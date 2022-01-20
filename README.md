@@ -30,6 +30,7 @@ Collect optimizer related papers, data, repositories
 |Stochastic First- and Zeroth-order Methods for Nonconvex Stochastic Programming|2013|ZO-SGD|[arxiv](https://arxiv.org/abs/1309.5549)||gradient free|
 |Mini-batch Stochastic Approximation Methods for Nonconvex Stochastic Composite Optimization|2013|ZO-ProxSGD|[arxiv](https://arxiv.org/abs/1308.6594)||gradient free|
 |Mini-batch Stochastic Approximation Methods for Nonconvex Stochastic Composite Optimization|2013|ZO-PSGD|[arxiv](https://arxiv.org/abs/1308.6594)||gradient free|
+|Semi-Stochastic Gradient Descent Methods|2013|S2GD|[arxiv](https://arxiv.org/abs/1312.1666)||variance reduced|
 |Adam: A Method for Stochastic Optimization|2014|Adam|[arxiv](https://arxiv.org/abs/1412.6980)|[code](https://paperswithcode.com/paper/adam-a-method-for-stochastic-optimization)|gradient descent|
 |SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives|2014|SAGA|[arxiv](https://arxiv.org/abs/1407.0202)|[code](https://github.com/elmahdichayti/SAGA)|variance reduced|
 |A Stochastic Quasi-Newton Method for Large-Scale Optimization|2014|SQN|[arxiv](https://arxiv.org/abs/1401.7020)|[code](https://github.com/keskarnitish/minSQN)|quasi-newton|
@@ -83,6 +84,7 @@ Collect optimizer related papers, data, repositories
 |Natasha 2: Faster Non-Convex Optimization Than SGD|2017|Natasha2|[arxiv](https://arxiv.org/abs/1708.08694)||gradient descent|
 |Natasha 2: Faster Non-Convex Optimization Than SGD|2017|Natasha1.5|[arxiv](https://arxiv.org/abs/1708.08694)||gradient descent|
 |Regularizing and Optimizing LSTM Language Models|2017|NT-ASGD|[arxiv](https://arxiv.org/abs/1708.02182)|[code](https://github.com/salesforce/awd-lstm-lm)|gradient descent|
+|SW-SGD: The Sliding Window Stochastic Gradient Descent Algorithm|2017|SW-SGD|[sciencedirect](https://www.sciencedirect.com/science/article/pii/S1877050917306221)||gradient descent|
 |Adafactor: Adaptive Learning Rates with Sublinear Memory Cost|2018|Adafactor|[arxiv](https://arxiv.org/abs/1804.04235)|[code](https://github.com/DeadAt0m/adafactor-pytorch)|gradient descent|
 |Quasi-hyperbolic momentum and Adam for deep learning|2018|QHAdam|[arxiv](https://arxiv.org/abs/1810.06801)|[code](https://github.com/facebookresearch/qhoptim)|gradient descent|
 |Online Adaptive Methods, Universality and Acceleration|2018|AcceleGrad|[arxiv](https://arxiv.org/abs/1809.02864)||gradient descent|
