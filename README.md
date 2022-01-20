@@ -155,6 +155,8 @@ Collect optimizer related papers, data, repositories
 |Momentum-Based Variance Reduction in Non-Convex SGD|2019|STORM|[arxiv](https://arxiv.org/abs/1905.10018)|[code](https://github.com/google-research/google-research/tree/master/storm_optimizer)|gradeint descent|
 |ZO-AdaMM: Zeroth-Order Adaptive Momentum Method for Black-Box Optimization|2019|ZO-AdaMM|[arxiv](https://arxiv.org/abs/1910.06513)|[code](https://github.com/KaidiXu/ZO-AdaMM)|gradient free|
 |signSGD via Zeroth-Order Oracle|2019|ZO-signSGD|[openreview](https://openreview.net/forum\?id\=BJe-DsC5Fm)||gradient free|
+|Demon: Improved Neural Network Training with Momentum Decay|2019|Demon SGDM|[arxiv](https://arxiv.org/abs/1910.04952)|[code](https://github.com/autasi/demon_sgd)|gradient descent|
+|Demon: Improved Neural Network Training with Momentum Decay|2019|Demon Adam|[arxiv](https://arxiv.org/abs/1910.04952)|[code](https://github.com/autasi/demon_sgd)|gradient descent|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
