@@ -242,4 +242,5 @@ Collect optimizer related papers, data, repositories
 |AdaLoss: A computationally-efficient and provably convergent adaptive gradient method|2021|AdaLoss|[arxiv](https://arxiv.org/abs/2109.08282)||gradient descent|
 |AdaLoss: A computationally-efficient and provably convergent adaptive gradient method|2021|AdamLoss|[arxiv](https://arxiv.org/abs/2109.08282)||gradient descent|
 |STORM+: Fully Adaptive SGD with Momentum for Nonconvex Optimization|2021|STORM+|[arxiv](https://arxiv.org/abs/2111.01040)||gradient descent|
+|Adadb: Adaptive Diff-Batch Optimization Technique for Gradient Descent|2021|Adadb|[ieee](https://ieeexplore.ieee.org/abstract/document/9481902)||gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
