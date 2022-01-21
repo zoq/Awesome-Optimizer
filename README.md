@@ -244,4 +244,5 @@ Collect optimizer related papers, data, repositories
 |STORM+: Fully Adaptive SGD with Momentum for Nonconvex Optimization|2021|STORM+|[arxiv](https://arxiv.org/abs/2111.01040)||gradient descent|
 |Adadb: Adaptive Diff-Batch Optimization Technique for Gradient Descent|2021|Adadb|[ieee](https://ieeexplore.ieee.org/abstract/document/9481902)||gradient descent|
 |MaxVA: Fast Adaptation of Step Sizes by Maximizing Observed Variance of Gradients|2021|MaxVA|[arxiv](https://arxiv.org/abs/2006.11918)|[code](https://github.com/zhuchen03/maxva)|gradient descent|
+|A New Adaptive Gradient Method with Gradient Decomposition|2021|DecGD|[arxiv](https://arxiv.org/abs/2107.08377)||gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
