@@ -159,6 +159,7 @@ Collect optimizer related papers, data, repositories
 |signSGD via Zeroth-Order Oracle|2019|ZO-signSGD|[openreview](https://openreview.net/forum\?id\=BJe-DsC5Fm)||gradient free|
 |Demon: Improved Neural Network Training with Momentum Decay|2019|Demon SGDM|[arxiv](https://arxiv.org/abs/1910.04952)|[code](https://github.com/autasi/demon_sgd)|gradient descent|
 |Demon: Improved Neural Network Training with Momentum Decay|2019|Demon Adam|[arxiv](https://arxiv.org/abs/1910.04952)|[code](https://github.com/autasi/demon_sgd)|gradient descent|
+|An Optimistic Acceleration of AMSGrad for Nonconvex Optimization|2019|OPT-AMSGrad|[arxiv](https://arxiv.org/abs/1903.01435)||gradient descent|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
