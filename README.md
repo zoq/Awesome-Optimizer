@@ -15,6 +15,7 @@ Collect optimizer related papers, data, repositories
 |A Stochastic Quasi-Newton Method for Online Convex Optimization|2007|O-LBFGS|[researchgate](https://www.researchgate.net/publication/220319999_A_Stochastic_Quasi-Newton_Method_for_Online_Convex_Optimization)||quasi-newton|
 |Scalable training of L1-regularized log-linear models|2007|OWL-QN|[acm](https://dl.acm.org/doi/10.1145/1273496.1273501)|[code](https://github.com/langholz/owlqn)|quasi-newton|
 |A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks|2009|HyperNEAT|[ieee](https://ieeexplore.ieee.org/document/6792316)||evolutionary|
+|AdaDiff: Adaptive Gradient Descent with the Differential of Gradient|2010|AdaDiff|[iopscience](https://iopscience.iop.org/article/10.1088/1742-6596/2010/1/012027)||gradient descent|
 |Adaptive Subgradient Methods for Online Learning and Stochastic Optimization|2011|AdaGrad|[jmlr](https://jmlr.org/papers/v12/duchi11a.html)|[code](https://github.com/mlpack/ensmallen/tree/master/include/ensmallen_bits/ada_grad)|gradient descent|
 |CMA-ES: evolution strategies and covariance matrix adaptation|2011|CMA-ES|[acm](https://dl.acm.org/doi/10.1145/2001858.2002123)|[code](https://github.com/srom/cma-es)|evolutionary|
 |ADADELTA: An Adaptive Learning Rate Method|2012|ADADELTA|[arxiv](https://arxiv.org/abs/1212.5701v1)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adadelta.py\#L6)|gradient descent|
