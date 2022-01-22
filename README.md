@@ -259,4 +259,5 @@ Collect optimizer related papers, data, repositories
 |MaxVA: Fast Adaptation of Step Sizes by Maximizing Observed Variance of Gradients|2021|MaxVA|[arxiv](https://arxiv.org/abs/2006.11918)|[code](https://github.com/zhuchen03/maxva)|gradient descent|
 |A New Adaptive Gradient Method with Gradient Decomposition|2021|DecGD|[arxiv](https://arxiv.org/abs/2107.08377)||gradient descent|
 |AdaL: Adaptive Gradient Transformation Contributes to Convergences and Generalizations|2021|AdaL|[arxiv](https://arxiv.org/abs/2107.01525)||gradient descent|
+|AdaDB: An adaptive gradient method with data-dependent bound|2021|AdaDB|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0925231220311784)|[code](https://github.com/ZJULearning/AdaDB)|gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
