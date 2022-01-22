@@ -228,6 +228,7 @@ Collect optimizer related papers, data, repositories
 |AdaSwarm: Augmenting Gradient-Based optimizers in Deep Learning with Swarm Intelligence|2020|AdaSwarm|[arxiv](https://arxiv.org/abs/2006.09875)|[code](https://github.com/anuwu/PSO-Stuff)|evolutionary|
 |Adaptive Gradient Methods for Constrained Convex Optimization and Variational Inequalities|2020|AdaACSA|[arxiv](https://arxiv.org/abs/2007.08840)||gradient descent|
 |Adaptive Gradient Methods for Constrained Convex Optimization and Variational Inequalities|2020|AdaAGD+|[arxiv](https://arxiv.org/abs/2007.08840)||gradient descent|
+|SCW-SGD: Stochastically Confidence-Weighted SGD|2020|SCWSGD|[ieee](https://ieeexplore.ieee.org/abstract/document/9190992)||gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
 |Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
