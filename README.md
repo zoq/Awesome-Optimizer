@@ -260,4 +260,5 @@ Collect optimizer related papers, data, repositories
 |A New Adaptive Gradient Method with Gradient Decomposition|2021|DecGD|[arxiv](https://arxiv.org/abs/2107.08377)||gradient descent|
 |AdaL: Adaptive Gradient Transformation Contributes to Convergences and Generalizations|2021|AdaL|[arxiv](https://arxiv.org/abs/2107.01525)||gradient descent|
 |AdaDB: An adaptive gradient method with data-dependent bound|2021|AdaDB|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0925231220311784)|[code](https://github.com/ZJULearning/AdaDB)|gradient descent|
+|Convergence of the RMSProp deep learning method with penalty for nonconvex optimization|2021|RMSPropW|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0893608021000538)||gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
