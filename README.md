@@ -119,6 +119,8 @@ Collect optimizer related papers, data, repositories
 |Accelerating SGD with momentum for over-parameterized learning|2018|MaSS|[arxiv](https://arxiv.org/abs/1810.13395)|[code](https://github.com/ts66395/MaSS)|gradient descent|
 |SADAGRAD: Strongly Adaptive Stochastic Gradient Methods|2018|SADAGRAD|[mlr](http://proceedings.mlr.press/v80/chen18m.html)||gradient descent|
 |Deep Frank-Wolfe For Neural Network Optimization|2018|DFW|[arxiv](https://arxiv.org/abs/1811.07591)|[code](https://github.com/oval-group/dfw)|gradient descent|
+|On the Convergence of AdaGrad with Momentum for Training Deep Neural Networks|2018|AdaHB|[deepai](https://deepai.org/publication/on-the-convergence-of-adagrad-with-momentum-for-training-deep-neural-networks)||gradient descent|
+|On the Convergence of AdaGrad with Momentum for Training Deep Neural Networks|2018|AdaNAG|[deepai](https://deepai.org/publication/on-the-convergence-of-adagrad-with-momentum-for-training-deep-neural-networks)||gradient descent|
 |On the Convergence of Adam and Beyond|2019|AMSGrad|[arxiv](https://arxiv.org/abs/1904.09237)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adam.py#L6)|gradient descent|
 |Local AdaAlter: Communication-Efficient Stochastic Gradient Descent with Adaptive Learning Rates|2019|AdaAlter|[arxiv](https://arxiv.org/abs/1911.09030)|[code](https://github.com/xcgoner/AISTATS2020-AdaAlter-GluonNLP)|gradient descent|
 |Adaptive Gradient Methods with Dynamic Bound of Learning Rate|2019|AdaBound|[arxiv](https://arxiv.org/abs/1902.09843)|[code](https://github.com/Luolc/AdaBound)|gradient descent|
