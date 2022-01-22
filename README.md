@@ -114,6 +114,7 @@ Collect optimizer related papers, data, repositories
 |First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time|2018|NEON|[arxiv](https://arxiv.org/abs/1711.01944)||gradient descent|
 |Katyusha X: Practical Momentum Method for Stochastic Sum-of-Nonconvex Optimization|2018|Katyusha X|[arxiv](https://arxiv.org/abs/1802.03866)||variance reduced|
 |PSA-CMA-ES: CMA-ES with population size adaptation|2018|PSA-CMA-ES|[acm](https://dl.acm.org/doi/10.1145/3205455.3205467)||evolutionary|
+|AdaGrad Stepsizes: Sharp Convergence Over Nonconvex Landscapes|2018|AdaGrad-Norm|[arxiv](https://arxiv.org/abs/1806.01811)|[code](https://github.com/xwuShirley/pytorch/blob/master/torch/optim/adagradnorm.py)|gradient descent|
 |On the Convergence of Adam and Beyond|2019|AMSGrad|[arxiv](https://arxiv.org/abs/1904.09237)|[code](https://github.com/pytorch/pytorch/blob/b7bda236d18815052378c88081f64935427d7716/torch/optim/adam.py#L6)|gradient descent|
 |Local AdaAlter: Communication-Efficient Stochastic Gradient Descent with Adaptive Learning Rates|2019|AdaAlter|[arxiv](https://arxiv.org/abs/1911.09030)|[code](https://github.com/xcgoner/AISTATS2020-AdaAlter-GluonNLP)|gradient descent|
 |Adaptive Gradient Methods with Dynamic Bound of Learning Rate|2019|AdaBound|[arxiv](https://arxiv.org/abs/1902.09843)|[code](https://github.com/Luolc/AdaBound)|gradient descent|
