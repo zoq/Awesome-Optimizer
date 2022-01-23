@@ -232,6 +232,7 @@ Collect optimizer related papers, data, repositories
 |SCW-SGD: Stochastically Confidence-Weighted SGD|2020|SCWSGD|[ieee](https://ieeexplore.ieee.org/abstract/document/9190992)||gradient descent|
 |An Improved Adaptive Optimization Technique for Image Classification|2020|Mean-ADAM|[ieee](https://ieeexplore.ieee.org/abstract/document/9306620)||gradient descent|
 |Towards Better Generalization of Adaptive Gradient Methods|2020|SAGD|[neurips](https://proceedings.neurips.cc/paper/2020/hash/08fb104b0f2f838f3ce2d2b3741a12c2-Abstract.html)||gradient descent|
+|Stochastic Approximate Gradient Descent via the Langevin Algorithm|2020|SAGD|[arxiv](https://arxiv.org/abs/2002.05519)||gradient descent|
 |Gravity Optimizer: a Kinematic Approach on Optimization in Deep Learning|2021|Gravity|[arxiv](https://arxiv.org/abs/2101.09192)|[code](https://github.com/dariush-bahrami/gravity.optimizer)|gradient descent|
 |Comment on Stochastic Polyak Step-Size: Performance of ALI-G|2021|ALI-G|[arxiv](https://arxiv.org/abs/2105.10011)||gradient descent|
 |Random-reshuffled SARAH does not need a full gradient computations|2021|Shuffled-SARAH|[arxiv](https://arxiv.org/abs/2111.13322)||variance reduction|
