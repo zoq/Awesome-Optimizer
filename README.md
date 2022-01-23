@@ -271,4 +271,5 @@ Collect optimizer related papers, data, repositories
 |AdaCN: An Adaptive Cubic Newton Method for Nonconvex Stochastic Optimization|2021|AdaCN|[researchgate](https://www.researchgate.net/publication/356140884_AdaCN_An_Adaptive_Cubic_Newton_Method_for_Nonconvex_Stochastic_Optimization)||gradient descent|
 |Extending AdamW by Leveraging Its Second Moment and Magnitude|2021|Aida|[arxiv](https://arxiv.org/abs/2112.06125)||gradient descent|
 |Painless step size adaptation for SGD|2021|LIGHT|[arxiv](https://arxiv.org/abs/2102.00853)|[code](https://github.com/yukinoi/light-diagnostic-function)|gradient descent|
+|AdaTerm: Adaptive T-Distribution Estimated Robust Moments towards Noise-Robust Stochastic Gradient Optimizer|2022|AdaTerm|[arxiv](https://arxiv.org/abs/2201.06714)||gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
