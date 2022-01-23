@@ -266,4 +266,5 @@ Collect optimizer related papers, data, repositories
 |AdaDB: An adaptive gradient method with data-dependent bound|2021|AdaDB|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0925231220311784)|[code](https://github.com/ZJULearning/AdaDB)|gradient descent|
 |Convergence of the RMSProp deep learning method with penalty for nonconvex optimization|2021|RMSPropW|[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0893608021000538)||gradient descent|
 |AG-SGD: Angle-Based Stochastic Gradient Descent|2021|AG-SGD|[ieee](https://ieeexplore.ieee.org/abstract/document/9343305)||gradient descent|
+|AdaCN: An Adaptive Cubic Newton Method for Nonconvex Stochastic Optimization|2021|AdaCN|[researchgate](https://www.researchgate.net/publication/356140884_AdaCN_An_Adaptive_Cubic_Newton_Method_for_Nonconvex_Stochastic_Optimization)||gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
