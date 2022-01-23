@@ -172,6 +172,7 @@ Collect optimizer related papers, data, repositories
 |UniXGrad: A Universal, Adaptive Algorithm with Optimal Guarantees for Constrained Optimization|2019|UniXGrad|[arxiv](https://arxiv.org/abs/1910.13857)||gradient descent|
 |An Adaptive Optimization Algorithm Based on Hybrid Power and Multidimensional Update Strategy|2019|AdaHMG|[ieee](https://ieeexplore.ieee.org/abstract/document/8635473)||gradient descent|
 |ProxSGD: Training Structured Neural Networks under Regularization and Constraints|2019|ProxSGD|[openreview](https://openreview.net/forum\?id\=HygpthEtvr)|[code](https://github.com/optyang/proxsgd)|gradient descent|
+|Efficient Learning Rate Adaptation for Convolutional Neural Network Training|2019|e-AdLR|[ieee](https://ieeexplore.ieee.org/abstract/document/8852033)||gradient descent|
 |AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients|2020|AdaBelief|[arxiv](https://arxiv.org/abs/2010.07468)|[code](https://github.com/juntang-zhuang/Adabelief-Optimizer)|gradient descent|
 |ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning|2020|ADAHESSIAN|[arxiv](https://arxiv.org/abs/2006.00719)|[code](https://github.com/amirgholami/adahessian)|gradient descent|
 |Adai: Separating the Effects of Adaptive Learning Rate and Momentum Inertia|2020|Adai|[arxiv](https://arxiv.org/abs/2006.15815)|[code](https://github.com/zeke-xie/adaptive-inertia-adai)|gradient descent|
