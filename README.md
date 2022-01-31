@@ -273,5 +273,6 @@ Collect optimizer related papers, data, repositories
 |Extending AdamW by Leveraging Its Second Moment and Magnitude|2021|Aida|[arxiv](https://arxiv.org/abs/2112.06125)||gradient descent|
 |Painless step size adaptation for SGD|2021|LIGHT|[arxiv](https://arxiv.org/abs/2102.00853)|[code](https://github.com/yukinoi/light-diagnostic-function)|gradient descent|
 |Dynamic Game Theoretic Neural Optimizer|2021|DGNOpt|[arxiv](https://arxiv.org/abs/2105.03788)||gradient descent|
+|Complex Momentum for Optimization in Games|2021|Complex Adam|[arxiv](https://arxiv.org/abs/2102.08431)||gradient descent|
 |LightAdam: Towards a Fast and Accurate Adaptive Momentum Online Algorithm|2022|LightAdam|[springerlink](https://link.springer.com/article/10.1007/s12559-021-09985-9)||gradient descent|
 |AdaTerm: Adaptive T-Distribution Estimated Robust Moments towards Noise-Robust Stochastic Gradient Optimizer|2022|AdaTerm|[arxiv](https://arxiv.org/abs/2201.06714)||gradient descent|
