@@ -278,4 +278,6 @@ Collect optimizer related papers, data, repositories
 |Step-size Adaptation Using Exponentiated Gradient Updates|2022|Funneled AdaGrad|[arxiv](https://arxiv.org/abs/2202.00145)||gradient descent|
 |Nesterov Accelerated Shuffling Gradient Method for Convex Optimization|2022|NASG|[arxiv](https://arxiv.org/abs/2202.03525)||gradient descent|
 |MSTGD:A Memory Stochastic sTratified Gradient Descent Method with an Exponential Convergence Rate|2022|MSTGD|[arxiv](https://arxiv.org/abs/2202.10923)||variance reduced|
+|Cutting Some Slack for SGD with Adaptive Polyak Stepsizes|2022|SPSL1|[arxiv](https://arxiv.org/abs/2202.12328)||gradient descent|
+|Cutting Some Slack for SGD with Adaptive Polyak Stepsizes|2022|SPSL2|[arxiv](https://arxiv.org/abs/2202.12328)||gradient descent|
 |AdaTerm: Adaptive T-Distribution Estimated Robust Moments towards Noise-Robust Stochastic Gradient Optimizer|2022|AdaTerm|[arxiv](https://arxiv.org/abs/2201.06714)||gradient descent|
