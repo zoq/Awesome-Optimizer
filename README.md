@@ -282,4 +282,5 @@ Collect optimizer related papers, data, repositories
 |Cutting Some Slack for SGD with Adaptive Polyak Stepsizes|2022|SPSL2|[arxiv](https://arxiv.org/abs/2202.12328)||gradient descent|
 |AdaFamily: A family of Adam-like adaptive gradient methods|2022|AdaFamily|[arxiv](https://arxiv.org/abs/2203.01603)||gradient descent|
 |Exploiting Explainable Metrics for Augmented SGD|2022|RMSGD|[arxiv](https://arxiv.org/abs/2203.16723)|[code](https://github.com/mahdihosseini/RMSGD)|gradient descent|
+|Neuroevolution-Enhanced Multi-Objective Optimization for Mixed-Precision Quantization|2022|NEMO|[arxiv](https://arxiv.org/abs/2106.07611)||evolutionary|
 |AdaTerm: Adaptive T-Distribution Estimated Robust Moments towards Noise-Robust Stochastic Gradient Optimizer|2022|AdaTerm|[arxiv](https://arxiv.org/abs/2201.06714)||gradient descent|
