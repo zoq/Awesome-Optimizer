@@ -285,4 +285,5 @@ Collect optimizer related papers, data, repositories
 |Neuroevolution-Enhanced Multi-Objective Optimization for Mixed-Precision Quantization|2022|NEMO|[arxiv](https://arxiv.org/abs/2106.07611)||evolutionary|
 |Learning to Accelerate by the Methods of Step-size Planning|2022|Csawg|[arxiv](https://arxiv.org/abs/2204.01705)||gradient descent|
 |High-performance Evolutionary Algorithms for Online Neuron Control|2022|SphereCMA|[arxiv](https://arxiv.org/abs/2204.06765)|[code](https://github.com/animadversio/actmax-optimizer-dev)|evolutionary|
+|RankNEAT: Outperforming Stochastic Gradient Search in Preference Learning Tasks|2022|RankNEAT|[arxiv](https://arxiv.org/abs/2204.06901)||evolutionary|
 |AdaTerm: Adaptive T-Distribution Estimated Robust Moments towards Noise-Robust Stochastic Gradient Optimizer|2022|AdaTerm|[arxiv](https://arxiv.org/abs/2201.06714)||gradient descent|
