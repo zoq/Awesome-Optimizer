@@ -287,4 +287,6 @@ Collect optimizer related papers, data, repositories
 |High-performance Evolutionary Algorithms for Online Neuron Control|2022|SphereCMA|[arxiv](https://arxiv.org/abs/2204.06765)|[code](https://github.com/animadversio/actmax-optimizer-dev)|evolutionary|
 |RankNEAT: Outperforming Stochastic Gradient Search in Preference Learning Tasks|2022|RankNEAT|[arxiv](https://arxiv.org/abs/2204.06901)||evolutionary|
 |AdaTerm: Adaptive T-Distribution Estimated Robust Moments towards Noise-Robust Stochastic Gradient Optimizer|2022|AdaTerm|[arxiv](https://arxiv.org/abs/2201.06714)||gradient descent|
+|L-SVRG and L-Katyusha with Adaptive Sampling|2022|AS-LKatyusha|[arxiv](https://arxiv.org/abs/2201.13387)||variance reduced|
+|L-SVRG and L-Katyusha with Adaptive Sampling|2022|AS-LSVRG|[arxiv](https://arxiv.org/abs/2201.13387)||variance reduced|
 |Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models|2022|Adan|[arxiv](https://arxiv.org/abs/2208.06677)|[code](https://github.com/sail-sg/Adan)|gradient descent|
