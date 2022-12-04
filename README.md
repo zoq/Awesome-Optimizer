@@ -289,4 +289,5 @@ Collect optimizer related papers, data, repositories
 |AdaTerm: Adaptive T-Distribution Estimated Robust Moments towards Noise-Robust Stochastic Gradient Optimizer|2022|AdaTerm|[arxiv](https://arxiv.org/abs/2201.06714)||gradient descent|
 |L-SVRG and L-Katyusha with Adaptive Sampling|2022|AS-LKatyusha|[arxiv](https://arxiv.org/abs/2201.13387)||variance reduced|
 |L-SVRG and L-Katyusha with Adaptive Sampling|2022|AS-LSVRG|[arxiv](https://arxiv.org/abs/2201.13387)||variance reduced|
+|SketchySGD: Reliable Stochastic Optimization via Robust Curvature Estimates|2022|SketchySGD|[arxiv](https://arxiv.org/abs/2211.08597)||quasi-newton|
 |Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models|2022|Adan|[arxiv](https://arxiv.org/abs/2208.06677)|[code](https://github.com/sail-sg/Adan)|gradient descent|
