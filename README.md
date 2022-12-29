@@ -232,4 +232,5 @@ Collect optimizer related papers, data, repositories
 |SCW-SGD: Stochastically Confidence-Weighted SGD|2020|SCWSGD|[ieee](https://ieeexplore.ieee.org/abstract/document/9190992)||gradient descent|
 |An Improved Adaptive Optimization Technique for Image Classification|2020|Mean-ADAM|[ieee](https://ieeexplore.ieee.org/abstract/document/9306620)||gradient descent|
 |Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes|2020|LANS|[arxiv](https://arxiv.org/abs/2006.13484)|[code](https://github.com/jianyuheng/lans_optimizer)|gradient descent|
+|Weak and Strong Gradient Directions: Explaining Memorization, Generalization, and Hardness of Examples at Scale|2020|RM3|[arxiv](https://arxiv.org/abs/2003.07422)|[code](https://github.com/cpuimage/keras-optimizer)|gradient descent|
 |Towards Better Generalization of Adaptive Gradient Methods|2020|SAGD|[neurips](https://proceedings.neurips.cc/paper/2020/hash/08fb104b0f2f838f3ce2d2b3741a12c2-Abstract.html)||gradient descent|
