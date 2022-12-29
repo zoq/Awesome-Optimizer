@@ -290,4 +290,5 @@ Collect optimizer related papers, data, repositories
 |L-SVRG and L-Katyusha with Adaptive Sampling|2022|AS-LKatyusha|[arxiv](https://arxiv.org/abs/2201.13387)||variance reduced|
 |L-SVRG and L-Katyusha with Adaptive Sampling|2022|AS-LSVRG|[arxiv](https://arxiv.org/abs/2201.13387)||variance reduced|
 |SketchySGD: Reliable Stochastic Optimization via Robust Curvature Estimates|2022|SketchySGD|[arxiv](https://arxiv.org/abs/2211.08597)||quasi-newton|
+|AskewSGD : An Annealed interval-constrained Optimisation method to train Quantized Neural Networks|2022|AskewSGD|[arxiv](https://arxiv.org/abs/2211.03741)||gradient descent|
 |Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models|2022|Adan|[arxiv](https://arxiv.org/abs/2208.06677)|[code](https://github.com/sail-sg/Adan)|gradient descent|
