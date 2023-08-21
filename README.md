@@ -243,4 +243,5 @@ Collect optimizer related papers, data, repositories
 |Promoting Exploration in Memory-Augmented Adam using Critical Momenta|2023|Adam+CM|[arxiv](https://arxiv.org/abs/2307.09638)|[code](https://github.com/chandar-lab/CMOptimizer)|gradient descent|
 |Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training|2023|Sophia|[arxiv](https://arxiv.org/abs/2305.14342)|[code](https://github.com/Liuhong99/Sophia)|gradient descent|
 |Symbolic Discovery of Optimization Algorithms|2023|Lion|[arxiv](https://arxiv.org/abs/2302.06675)|[code](https://github.com/google/automl/tree/master/lion)|gradient descent|
+|FOSI: Hybrid First and Second Order Optimization|2023|FOSI|[arxiv](https://arxiv.org/abs/2302.08484)||quasi-newton|
 |An Adam-enhanced Particle Swarm Optimizer for Latent Factor Analysis|2023|ADHPL|[arxiv](https://arxiv.org/abs/2302.11956)||evolutionary|
