@@ -237,6 +237,7 @@ Collect optimizer related papers, data, repositories
 |Towards Better Generalization of Adaptive Gradient Methods|2020|SAGD|[neurips](https://proceedings.neurips.cc/paper/2020/hash/08fb104b0f2f838f3ce2d2b3741a12c2-Abstract.html)||gradient descent|
 |Smooth momentum: improving lipschitzness in gradient descent|2022|Smooth Momentum|[springerlink](https://link.springer.com/article/10.1007/s10489-022-04207-7)||gradient descent|
 |Grad-GradaGrad? A Non-Monotone Adaptive Stochastic Gradient Method|2022|GradaGrad|[arxiv](https://arxiv.org/abs/2206.06900)||gradient descent|
+|VeLO: Training Versatile Learned Optimizers by Scaling Up|2022|VeLO|[arxiv](https://arxiv.org/abs/2211.09760)|[code](https://github.com/google/learned_optimization/tree/main/learned_optimization/research/general_lopt)|gradient descent|
 |UAdam: Unified Adam-Type Algorithmic Framework for Non-Convex Stochastic Optimization|2023|UAdam|[arxiv](https://arxiv.org/abs/2305.05675)||gradient descent|
 |DP-Adam: Correcting DP Bias in Adam's Second Moment Estimation|2023|DP-Adam|[arxiv](https://arxiv.org/abs/2304.11208)||gradient descent|
 |Promoting Exploration in Memory-Augmented Adam using Critical Momenta|2023|Adam+CM|[arxiv](https://arxiv.org/abs/2307.09638)|[code](https://github.com/chandar-lab/CMOptimizer)|gradient descent|
