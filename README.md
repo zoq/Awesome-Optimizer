@@ -240,4 +240,5 @@ Collect optimizer related papers, data, repositories
 |UAdam: Unified Adam-Type Algorithmic Framework for Non-Convex Stochastic Optimization|2023|UAdam|[arxiv](https://arxiv.org/abs/2305.05675)||gradient descent|
 |DP-Adam: Correcting DP Bias in Adam's Second Moment Estimation|2023|DP-Adam|[arxiv](https://arxiv.org/abs/2304.11208)||gradient descent|
 |Promoting Exploration in Memory-Augmented Adam using Critical Momenta|2023|Adam+CM|[arxiv](https://arxiv.org/abs/2307.09638)|[code](https://github.com/chandar-lab/CMOptimizer)|gradient descent|
+|Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training|2023|Sophia|[arxiv](https://arxiv.org/abs/2305.14342)|[code](https://github.com/Liuhong99/Sophia)|gradient descent|
 |An Adam-enhanced Particle Swarm Optimizer for Latent Factor Analysis|2023|ADHPL|[arxiv](https://arxiv.org/abs/2302.11956)||evolutionary|
