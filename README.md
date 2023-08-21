@@ -234,5 +234,5 @@ Collect optimizer related papers, data, repositories
 |Accelerated Large Batch Optimization of BERT Pretraining in 54 minutes|2020|LANS|[arxiv](https://arxiv.org/abs/2006.13484)|[code](https://github.com/jianyuheng/lans_optimizer)|gradient descent|
 |Weak and Strong Gradient Directions: Explaining Memorization, Generalization, and Hardness of Examples at Scale|2020|RM3|[arxiv](https://arxiv.org/abs/2003.07422)|[code](https://github.com/cpuimage/keras-optimizer)|gradient descent|
 |On the distance between two neural networks and the stability of learning|2020|Fromage|[arxiv](https://arxiv.org/abs/2002.03432)|[code](https://github.com/jxbz/fromage)|gradient descent|
-|Smooth momentum: improving lipschitzness in gradient descent|2022|Smooth Momentum|[springerlink](https://link.springer.com/article/10.1007/s10489-022-04207-7)||gradient descent|
 |Towards Better Generalization of Adaptive Gradient Methods|2020|SAGD|[neurips](https://proceedings.neurips.cc/paper/2020/hash/08fb104b0f2f838f3ce2d2b3741a12c2-Abstract.html)||gradient descent|
+|Smooth momentum: improving lipschitzness in gradient descent|2022|Smooth Momentum|[springerlink](https://link.springer.com/article/10.1007/s10489-022-04207-7)||gradient descent|
