@@ -246,4 +246,5 @@ Collect optimizer related papers, data, repositories
 |FOSI: Hybrid First and Second Order Optimization|2023|FOSI|[arxiv](https://arxiv.org/abs/2302.08484)||quasi-newton|
 |DoG is SGD's Best Friend: A Parameter-Free Dynamic Step Size Schedule|2023|DoG|[arxiv](https://arxiv.org/abs/2302.12022)|[code](https://github.com/formll/dog)|gradient descent|
 |DoWG Unleashed: An Efficient Universal Parameter-Free Gradient Descent Method|2023|DoWG|[arxiv](https://arxiv.org/abs/2305.16284)||gradient descent|
+|Prodigy: An Expeditiously Adaptive Parameter-Free Learner|2023|Prodigy|[arxiv](https://arxiv.org/abs/2306.06101)|[code](https://github.com/konstmish/prodigy)|gradient descent|
 |An Adam-enhanced Particle Swarm Optimizer for Latent Factor Analysis|2023|ADHPL|[arxiv](https://arxiv.org/abs/2302.11956)||evolutionary|
