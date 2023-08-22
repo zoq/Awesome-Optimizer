@@ -244,4 +244,6 @@ Collect optimizer related papers, data, repositories
 |Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training|2023|Sophia|[arxiv](https://arxiv.org/abs/2305.14342)|[code](https://github.com/Liuhong99/Sophia)|gradient descent|
 |Symbolic Discovery of Optimization Algorithms|2023|Lion|[arxiv](https://arxiv.org/abs/2302.06675)|[code](https://github.com/google/automl/tree/master/lion)|gradient descent|
 |FOSI: Hybrid First and Second Order Optimization|2023|FOSI|[arxiv](https://arxiv.org/abs/2302.08484)||quasi-newton|
+|DoG is SGD's Best Friend: A Parameter-Free Dynamic Step Size Schedule|2023|DoG|[arxiv](https://arxiv.org/abs/2302.12022)|[code](https://github.com/formll/dog)|gradient descent|
+|DoWG Unleashed: An Efficient Universal Parameter-Free Gradient Descent Method|2023|DoWG|[arxiv](https://arxiv.org/abs/2305.16284)||gradient descent|
 |An Adam-enhanced Particle Swarm Optimizer for Latent Factor Analysis|2023|ADHPL|[arxiv](https://arxiv.org/abs/2302.11956)||evolutionary|
