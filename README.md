@@ -247,4 +247,5 @@ Collect optimizer related papers, data, repositories
 |DoG is SGD's Best Friend: A Parameter-Free Dynamic Step Size Schedule|2023|DoG|[arxiv](https://arxiv.org/abs/2302.12022)|[code](https://github.com/formll/dog)|gradient descent|
 |DoWG Unleashed: An Efficient Universal Parameter-Free Gradient Descent Method|2023|DoWG|[arxiv](https://arxiv.org/abs/2305.16284)||gradient descent|
 |Prodigy: An Expeditiously Adaptive Parameter-Free Learner|2023|Prodigy|[arxiv](https://arxiv.org/abs/2306.06101)|[code](https://github.com/konstmish/prodigy)|gradient descent|
+|Large Language Models as Optimizers|2023|OPRO|[arxiv](https://arxiv.org/abs/2309.03409)||llm|
 |An Adam-enhanced Particle Swarm Optimizer for Latent Factor Analysis|2023|ADHPL|[arxiv](https://arxiv.org/abs/2302.11956)||evolutionary|
